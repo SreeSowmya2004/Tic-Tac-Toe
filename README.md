@@ -44,11 +44,8 @@ tic-tac-toe-python/
 │
 ├── tic_tac_toe.py      # 🧠 Main game script
 ├── README.md           # 📄 This file
-├── report.md           # 📊 Project documentation
-└── requirements.txt    # 📦 (Empty unless GUI added)
-```
 
----
+```
 
 ## ▶️ How to Run
 
@@ -56,8 +53,8 @@ tic-tac-toe-python/
 git clone https://github.com/yourusername/tic-tac-toe-python.git
 cd tic-tac-toe-python
 python tic_tac_toe.py
-```
 
+```
 📝 Requires **Python 3.x**
 
 ---
@@ -68,6 +65,14 @@ python tic_tac_toe.py
 - 🤖 Add an AI opponent (Minimax algorithm)
 - 🌐 Build a web version (Flask or Django)
 - 🏆 Track scores and game history
+
+---
+
+## 🙋‍♀️ Let's Connect
+
+**C. Sree Sowmya**  
+📧 sreesowmya2k4@gmail.com  
+🔗 [GitHub](https://github.com/SreeSowmya2004) | [LinkedIn](https://linkedin.com/in/sree-sowmya-0b6742283)
 
 ---
 
